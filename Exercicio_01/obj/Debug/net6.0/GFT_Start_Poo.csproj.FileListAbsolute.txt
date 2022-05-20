@@ -1,0 +1,15 @@
+D:\GFT_Start_Poo\bin\Debug\net6.0\GFT_Start_Poo.exe
+D:\GFT_Start_Poo\bin\Debug\net6.0\GFT_Start_Poo.deps.json
+D:\GFT_Start_Poo\bin\Debug\net6.0\GFT_Start_Poo.runtimeconfig.json
+D:\GFT_Start_Poo\bin\Debug\net6.0\GFT_Start_Poo.dll
+D:\GFT_Start_Poo\bin\Debug\net6.0\GFT_Start_Poo.pdb
+D:\GFT_Start_Poo\obj\Debug\net6.0\GFT_Start_Poo.csproj.AssemblyReference.cache
+D:\GFT_Start_Poo\obj\Debug\net6.0\GFT_Start_Poo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GFT_Start_Poo\obj\Debug\net6.0\GFT_Start_Poo.AssemblyInfoInputs.cache
+D:\GFT_Start_Poo\obj\Debug\net6.0\GFT_Start_Poo.AssemblyInfo.cs
+D:\GFT_Start_Poo\obj\Debug\net6.0\GFT_Start_Poo.csproj.CoreCompileInputs.cache
+D:\GFT_Start_Poo\obj\Debug\net6.0\GFT_Start_Poo.dll
+D:\GFT_Start_Poo\obj\Debug\net6.0\refint\GFT_Start_Poo.dll
+D:\GFT_Start_Poo\obj\Debug\net6.0\GFT_Start_Poo.pdb
+D:\GFT_Start_Poo\obj\Debug\net6.0\GFT_Start_Poo.genruntimeconfig.cache
+D:\GFT_Start_Poo\obj\Debug\net6.0\ref\GFT_Start_Poo.dll

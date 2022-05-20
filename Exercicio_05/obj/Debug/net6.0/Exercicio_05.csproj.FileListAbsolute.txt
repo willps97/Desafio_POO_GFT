@@ -1,0 +1,15 @@
+D:\GFT_Start_Poo\Exercicio_05\bin\Debug\net6.0\Exercicio_05.exe
+D:\GFT_Start_Poo\Exercicio_05\bin\Debug\net6.0\Exercicio_05.deps.json
+D:\GFT_Start_Poo\Exercicio_05\bin\Debug\net6.0\Exercicio_05.runtimeconfig.json
+D:\GFT_Start_Poo\Exercicio_05\bin\Debug\net6.0\Exercicio_05.dll
+D:\GFT_Start_Poo\Exercicio_05\bin\Debug\net6.0\Exercicio_05.pdb
+D:\GFT_Start_Poo\Exercicio_05\obj\Debug\net6.0\Exercicio_05.csproj.AssemblyReference.cache
+D:\GFT_Start_Poo\Exercicio_05\obj\Debug\net6.0\Exercicio_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\GFT_Start_Poo\Exercicio_05\obj\Debug\net6.0\Exercicio_05.AssemblyInfoInputs.cache
+D:\GFT_Start_Poo\Exercicio_05\obj\Debug\net6.0\Exercicio_05.AssemblyInfo.cs
+D:\GFT_Start_Poo\Exercicio_05\obj\Debug\net6.0\Exercicio_05.csproj.CoreCompileInputs.cache
+D:\GFT_Start_Poo\Exercicio_05\obj\Debug\net6.0\Exercicio_05.dll
+D:\GFT_Start_Poo\Exercicio_05\obj\Debug\net6.0\refint\Exercicio_05.dll
+D:\GFT_Start_Poo\Exercicio_05\obj\Debug\net6.0\Exercicio_05.pdb
+D:\GFT_Start_Poo\Exercicio_05\obj\Debug\net6.0\Exercicio_05.genruntimeconfig.cache
+D:\GFT_Start_Poo\Exercicio_05\obj\Debug\net6.0\ref\Exercicio_05.dll
